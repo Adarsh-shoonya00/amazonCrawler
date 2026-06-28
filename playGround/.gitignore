@@ -1,0 +1,7 @@
+target/
+data/
+.idea/
+*.iml
+.DS_Store
+frontend/node_modules/
+frontend/dist/

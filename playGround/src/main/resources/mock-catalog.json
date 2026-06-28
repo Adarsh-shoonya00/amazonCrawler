@@ -1,0 +1,53 @@
+{
+  "B08N5WRWNW": {
+    "name": "Echo Dot (4th Gen) Smart Speaker",
+    "description": "Meet the Echo Dot - Our most popular smart speaker with Alexa. The sleek, compact design delivers crisp vocals and balanced bass for full sound.",
+    "images": [
+      "https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61MbMW0at6L._AC_SL1000_.jpg"
+    ],
+    "basePrice": 49.99,
+    "currency": "USD",
+    "seller": "Amazon.com"
+  },
+  "B09V3KXJPB": {
+    "name": "Fire TV Stick 4K Max streaming device",
+    "description": "Our most powerful streaming stick - 40% more powerful than Fire TV Stick 4K, with faster app starts and more fluid navigation.",
+    "images": [
+      "https://m.media-amazon.com/images/I/51TjJOTfslL._AC_SL1000_.jpg"
+    ],
+    "basePrice": 54.99,
+    "currency": "USD",
+    "seller": "Amazon.com"
+  },
+  "B07XJ8C8F5": {
+    "name": "Google Nest Mini (2nd Generation)",
+    "description": "Meet the Nest Mini, the helpful smart speaker that's small and mighty. Control your smart home with your voice.",
+    "images": [
+      "https://m.media-amazon.com/images/I/61O3xxDLoLL._AC_SL1000_.jpg"
+    ],
+    "basePrice": 39.99,
+    "currency": "USD",
+    "seller": "Google Store"
+  },
+  "B0BSHF7WHW": {
+    "name": "Apple HomePod mini",
+    "description": "Room-filling sound, an intelligent assistant, and smart home control. Works seamlessly with iPhone and Apple devices.",
+    "images": [
+      "https://m.media-amazon.com/images/I/61bM4qJjKzL._AC_SL1500_.jpg"
+    ],
+    "basePrice": 99.00,
+    "currency": "USD",
+    "seller": "Apple"
+  },
+  "B09G9FPHY6": {
+    "name": "Fire TV Stick Lite",
+    "description": "The most affordable Fire TV Stick. Enjoy fast streaming in Full HD. Comes with Alexa Voice Remote Lite.",
+    "images": [
+      "https://m.media-amazon.com/images/I/51TjJOTfslL._AC_SL1000_.jpg"
+    ],
+    "basePrice": 29.99,
+    "currency": "USD",
+    "seller": "Amazon.com"
+  }
+}

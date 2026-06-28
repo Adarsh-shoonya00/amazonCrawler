@@ -1,0 +1,27 @@
+server:
+  port: 8080
+
+app:
+  persistence:
+    file: data/store.json
+  master:
+    catalog-file: classpath:mock-catalog.json
+    seed-file: classpath:seed-products.json
+  crawl:
+    impl: mock
+    scheduler-enabled: true
+    schedule-cron: "0 0 */6 * * *"
+    price-jitter-percent: 2
+    simulated-latency-ms-min: 100
+    simulated-latency-ms-max: 300
+  admin:
+    username: admin
+    password: admin123
+
+spring:
+  application:
+    name: amazon-product-intelligence
+
+logging:
+  level:
+    com.amazon.intelligence: INFO

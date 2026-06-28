@@ -1,0 +1,7 @@
+[
+  { "asin": "B08N5WRWNW", "type": "OWN" },
+  { "asin": "B09V3KXJPB", "type": "OWN" },
+  { "asin": "B07XJ8C8F5", "type": "COMPETITOR", "linkedOwnAsin": "B08N5WRWNW" },
+  { "asin": "B0BSHF7WHW", "type": "COMPETITOR", "linkedOwnAsin": "B08N5WRWNW" },
+  { "asin": "B09G9FPHY6", "type": "COMPETITOR", "linkedOwnAsin": "B09V3KXJPB" }
+]
